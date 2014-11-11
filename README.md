@@ -1,6 +1,3 @@
-A reiminder app for your good-Days!
-========
-A reminder app for iPhone written in Objective-C.
-
-App link: 
-https://itunes.apple.com/cn/app/hao-ri-zi-ti-xing/id897128491?mt=8
+DateReminder
+============
+iOS app Date Reminder, https://itunes.apple.com/us/app/date-reminder-easy-simple/id791573091?mt=8
