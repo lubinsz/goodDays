@@ -1,4 +1,4 @@
-testA reiminder app for your good-Days!
+A reiminder app for your good-Days!
 ========
 A reminder app for iPhone written in Objective-C.
 
